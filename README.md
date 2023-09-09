@@ -18,6 +18,3 @@ This project involved the development of a memory manager, extending the capabil
 ### Testing:
 The project has been rigorously tested with 10 test cases provided in the starter code repository. These tests ensure that the memory manager behaves as expected and correctly implements the desired features.
 
----
-
-You can copy and paste this directly into your GitHub README. The headers and bullet points are formatted using Markdown, which GitHub's README renderer supports.
